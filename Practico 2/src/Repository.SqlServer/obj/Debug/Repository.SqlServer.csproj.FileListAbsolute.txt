@@ -1,0 +1,13 @@
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\bin\Debug\Repository.SqlServer.dll
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\bin\Debug\Repository.SqlServer.pdb
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\bin\Debug\Models.dll
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\bin\Debug\Repository.Interfaces.dll
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\bin\Debug\Models.pdb
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\bin\Debug\Repository.Interfaces.pdb
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\obj\Debug\Repository.SqlServer.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\obj\Debug\Repository.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\obj\Debug\Repository.SqlServer.csproj.CopyComplete
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\obj\Debug\Repository.SqlServer.dll
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Repository.SqlServer\obj\Debug\Repository.SqlServer.pdb

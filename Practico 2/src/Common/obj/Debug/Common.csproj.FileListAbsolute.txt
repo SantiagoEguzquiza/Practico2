@@ -1,0 +1,6 @@
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Common\bin\Debug\Common.dll
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Common\bin\Debug\Common.pdb
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Common\obj\Debug\Common.dll
+C:\Users\santi\Desktop\Carrera\ProgramacionIII\KodotiSells\src\Common\obj\Debug\Common.pdb
